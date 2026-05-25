@@ -25,10 +25,11 @@ d:/Projects/
 
 | Hand Gesture | Mapped Anime | Character | Cyberpunk Visual Theme |
 | :--- | :--- | :--- | :--- |
-| 👍 **Thumbs Up** | NARUTO | Naruto Uzumaki | 🟠 Hot Orange & Cyber Yellow |
+| 👍 **Shadow clone** | NARUTO | Naruto Uzumaki | 🟠 Hot Orange & Cyber Yellow |
 | ✌ **Peace Sign** | ONE PIECE | Monkey D. Luffy | 🟡 Yellow & Crimson Red |
-| 👊 **Fist** | ATTACK ON TITAN | Eren Yeager | 🔴 Neon Red & Steel Grey |
-| 🖐 **Open Palm** | DEMON SLAYER | Tanjiro Kamado | 🔵 Neon Cyan & Shocking Pink |
+| 👊 **Scout salute** | ATTACK ON TITAN | Eren Yeager | 🔴 Neon Red & Steel Grey |
+| 🖐 **palm press** | DEMON SLAYER | Tanjiro Kamado | 🔵 Neon Cyan & Shocking Pink |
+| **cross fingers** | JUJUTSU KAISEN | Gojo | Neon violet |
 
 ---
 
